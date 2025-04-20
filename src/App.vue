@@ -17,7 +17,7 @@ const startQuiz = async(topic) => {
 </script>
 
 <template>
-  <h1>Quiz Generator</h1>
+  <h1>Analisis de trading</h1>
   <div id="app">
 
     <header>
